@@ -9,7 +9,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/contactsContainer"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"> 
 
         <androidx.fragment.app.FragmentContainerView
             android:id="@+id/fragmentContainerView"
